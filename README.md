@@ -26,7 +26,9 @@ I'm a 2nd-year Engineering Student @ the University of Michigan, Ann Arbor. I am
   
 ### In process of mastering
 <p align='left'>  
+  
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
