@@ -35,7 +35,7 @@ I'm a 2nd-year Engineering Student @ the University of Michigan, Ann Arbor. I am
 </p>  
   
 
-<!--
+<!-
 Add this stat after adding more cpp and rust files to better the statistics!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishsundaram&layout=compact)](https://github.com/anishsundaram/github-readme-stats)-->
