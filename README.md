@@ -20,7 +20,7 @@ I'm a 2nd-year Engineering Student @ the University of Michigan, Ann Arbor. I am
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
   
