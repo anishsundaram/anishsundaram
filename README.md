@@ -8,7 +8,7 @@ I'm a 2nd-year Engineering Student @ the University of Michigan, Ann Arbor. I am
 
 - 🔧 I’m currently working on my personal website and a language learning browser extension
 - 🌱 I’m currently learning Web Systems, Foundations of Computer Science, Rust, and Go
-- 📁 My projects can by viewed [here](https://github.com/anishsundaram?tab=repositories)
+- 📁 My projects can by viewed [here](https://github.com/anishsundaram?tab=repositories) and my Linkedin can be found [here](https://www.linkedin.com/in/anishsundaram/)
 - 👯 I’m looking to collaborate with literally anyone on literally anything 😎
 - 🤔 I’m looking for help with website building and project ideas
 - 😄 Pronouns: He/Him/His 
