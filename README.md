@@ -7,7 +7,7 @@ I'm a 2nd-year Engineering Student @ the University of Michigan, Ann Arbor. I am
 [![IG badge](https://img.shields.io/badge/-@anish_sundaram14-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anish_sundaram14)
 
 - 🔧 I’m currently working on my personal website and doing webdev for the UofM Center for Entrepreneurship
-- 🌱 I’m currently learning Web Systems, Foundations of Computer Science, Rust, and Go
+- 🌱 I’m currently learning about Information and Web Security
 - 📁 My projects can by viewed [here](https://github.com/anishsundaram?tab=repositories) and my Linkedin can be found [here](https://www.linkedin.com/in/anishsundaram/)
 - 👯 I’m looking to collaborate with literally anyone on literally anything 😎
 - 🤔 I’m looking for help with website building and project ideas
