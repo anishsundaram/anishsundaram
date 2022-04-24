@@ -1,6 +1,6 @@
 ### Hello, I'm Anish Sundaram / anishun ! 👋🏼 <insert link here>
 
-I'm a 2nd-year Engineering Student @ the University of Michigan, Ann Arbor. I am majoring in Computer Science and minoring in Statistcs, and I hope to use my knowledge and passion for learning to pursue a career in Software Engineering and Full-Stack Development. I love to learn and I'm always interested in broadening my horizons!
+I'm a 2nd-year Engineering Student @ the University of Michigan, Ann Arbor. I am majoring in Computer Science and minoring in German and Statistcs, and I hope to use my knowledge and passion for learning to pursue a career in Software Engineering and Full-Stack Development. I love to learn and I'm always interested in broadening my horizons!
 
 [![lkdn badge](https://img.shields.io/badge/-anishsundaram-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anishsundaram)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anishsun@umich.edu)](mailto:contact@anishsun@umich.edu)
