@@ -36,11 +36,6 @@ I'm a 4th-year Engineering Student @ the University of Michigan, Ann Arbor. I am
   <img src="https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=Javascript&logoColor=white"/>
 </p>  
-  
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishsundaram&layout=compact)](https://github.com/anishsundaram/github-readme-stats)
 
 
 <!--
